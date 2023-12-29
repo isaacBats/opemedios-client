@@ -21,18 +21,32 @@
     <link rel="icon" href="img/fav/favicon-96x96.png">
 
     <!-- Touch Icons - iOS and Android 2.1+ -->
-    <link rel="apple-touch-icon" href="img/fav/android-icon-48x48.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/fav/android-icon-72x72.png" >
-    <link rel="apple-touch-icon" sizes="114x114" href="img/fav/apple-icon-114x114.png" >
-    <!-- Scripts -->
-    @viteStyles
+    <link rel="apple-touch-icon" href="{{ asset('assets/img/fav/android-icon-48x48.png') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('assets/img/fav/android-icon-72x72.png') }}" >
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('assets/img/fav/apple-icon-114x114.png') }}" >
+    
+    <!--bootstrap v5.2.3 -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
+    <!--flag css-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/flags.css') }}">
+    <!--meanmenu-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/meanmenu.css') }}">
+    <!--icons-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/boxicons.min.css') }}">
+    <!--aos-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/aos.css') }}">
+    <!--slick slider-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/slick.css') }}">
+    <!--main style-->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     @yield('styles')
 
     <!--modernizr-->
+    <script src="{{ asset('assets/js/vendor/modernizr.js') }}"></script>
     <!-- <script src="js/vendor/modernizr.js"></script> -->
 
     <!--[if lt IE 9]>
-    <script src="js/html5/respond.min.js"></script>
+    <script src="{{ asset('assets/js/html5/respond.min.js') }}"></script>
     <![endif]-->
 </head>
 
@@ -89,8 +103,8 @@
                 <div class="container">
                     <div class="main-responsive-menu">
                         <div class="logo">
-                            <a href="index.html">
-                                <img src="img/logo.png"  alt="image">
+                            <a href="/">
+                                <img src="{{ asset('assets/img/logo.png') }}"  alt="Opemedios">
                             </a>
                         </div><!--/.logo-->
                     </div>
@@ -100,7 +114,7 @@
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="index.html">
-                            <img src="img/logo.png" alt="image">
+                            <img src="{{ asset('assets/img/logo.png') }}" alt="image">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                             <ul class="navbar-nav m-auto">
@@ -290,7 +304,7 @@
                                     <ul class="recent-posts">
                                         <li class="d-flex align-items-center">
                                             <div class="flex-grow-0">
-                                                <img src="img/blog1.jpg" alt="">
+                                                <img src="{{ asset('assets/img/blog1.jpg') }}" alt="">
                                             </div>
                                             <div class="flex-shrink-1">
                                                 <a href="blog-details.html">Thoughtful man using laptop pondering </a>
@@ -299,7 +313,7 @@
                                         </li>
                                         <li class="d-flex align-items-center">
                                             <div class="flex-grow-0">
-                                                <img src="img/blog2.jpg" alt="">
+                                                <img src="{{ asset('assets/img/blog2.jpg') }}" alt="">
                                             </div>
                                             <div class="flex-shrink-1">
                                                 <a href="blog-details.html">Thoughtful man using laptop pondering </a>
@@ -356,23 +370,22 @@
     <a href="javascript:" id="return-to-top"><i class="bx bx-chevron-up"></i></a>
 
     
-    @viteScripts('footer')
     <!--jquery-->
-    <!-- <script src="js/jquery.js"></script> -->
+    <script src="{{ asset('assets/js/jquery.js') }}"></script>
     <!--bootstrap bundle v5.2.3-->
-    <!-- <script src="js/vendor/bootstrap.bundle.js"></script> -->
+    <script src="{{ asset('assets/js/vendor/bootstrap.bundle.js') }}"></script>
     <!--meanmenu-->
-    <!-- <script src="js/vendor/jquery.meanmenu.js"></script> -->
+    <script src="{{ asset('assets/js/vendor/jquery.meanmenu.js') }}"></script>
     <!--flag-->
-    <!-- <script src="js/vendor/jquery.flagstrap.min.js"></script> -->
+    <script src="{{ asset('assets/js/vendor/jquery.flagstrap.min.js') }}"></script>
     <!--aos-->
-    <!-- <script src="js/vendor/aos.js"></script> -->
+    <script src="{{ asset('assets/js/vendor/aos.js') }}"></script>
     <!--slick-->
-    <!-- <script src="js/vendor/slick.min.js"></script> -->
+    <script src="{{ asset('assets/js/vendor/slick.min.js') }}"></script>
     <!--easing js-->
-    <!-- <script src="js/vendor/easing.js"></script> -->
+    <script src="{{ asset('assets/js/vendor/easing.js') }}"></script>
     <!--main script-->
-    <!-- <script src="js/main.js"></script> -->
+    <script src="{{ asset('assets/js/main.js') }}"></script>
 
 </body>
 </html>

@@ -11,7 +11,7 @@
                 <div class="single-items-cart d-flex align-items-center">
                     <div class="flex-shrink-0">
                         <div class="imgs">
-                            <img src="img/shop/products9.png" alt="">
+                            <img src="{{ asset('assets/img/shop/products9.png') }}" alt="">
                         </div>
                     </div>
                     <div class="flex-grow-1">
@@ -25,12 +25,12 @@
                             <p>1x $570</p>
                         </div>
                     </div>
-                    <a href="#" class="remote-item-cart"><img src="img/icons/times.svg" alt=""></a>
+                    <a href="#" class="remote-item-cart"><img src="{{ asset('assets/img/icons/times.svg') }}" alt=""></a>
                 </div><!--/.single-items-cart-->
                 <div class="single-items-cart d-flex align-items-center">
                     <div class="flex-shrink-0">
                         <div class="imgs">
-                            <img src="img/shop/products2.png" alt="">
+                            <img src="{{ asset('assets/img/shop/products2.png') }}" alt="">
                         </div>
                     </div>
                     <div class="flex-grow-1">
@@ -44,12 +44,12 @@
                             <p>1x $570</p>
                         </div>
                     </div>
-                    <a href="#" class="remote-item-cart"><img src="img/icons/times.svg" alt=""></a>
+                    <a href="#" class="remote-item-cart"><img src="{{ asset('assets/img/icons/times.svg') }}" alt=""></a>
                 </div><!--/.single-items-cart-->
                 <div class="single-items-cart d-flex align-items-center">
                     <div class="flex-shrink-0">
                         <div class="imgs">
-                            <img src="img/shop/products4.png" alt="">
+                            <img src="{{ asset('assets/img/shop/products4.png') }}" alt="">
                         </div>
                     </div>
                     <div class="flex-grow-1">
@@ -63,7 +63,7 @@
                             <p>1x $570</p>
                         </div>
                     </div>
-                    <a href="#" class="remote-item-cart"><img src="img/icons/times.svg" alt=""></a>
+                    <a href="#" class="remote-item-cart"><img src="{{ asset('assets/img/icons/times.svg') }}" alt=""></a>
                 </div><!--/.single-items-cart-->
             </div><!--/.ortency-shopping-cart-slide-->
             <div class="ortency-cart-subtotal">
@@ -78,7 +78,7 @@
                 </div>
                 <div class="free_shipping_cart">
                     <div class="d-flex justify-content-between align-items-center">
-                        <img src="img/icons/shipping-icon.svg" alt="">
+                        <img src="{{ asset('assets/img/icons/shipping-icon.svg') }}" alt="">
                         <h5>Spend $ 499.00 to Free Shipping</h5>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                     <div class="right-content-hero">
                         <div class="imgs">
                             <div class="inner">
-                                <img src="img/hero-img.png" alt="">
+                                <img src="{{ asset('assets/img/hero-img.png') }}" alt="">
                             </div>
                         </div>
                     </div><!--/.right-content-hero-->
@@ -131,16 +131,16 @@
                 <div class="col-md-6">
                     <div class="left-images-about">
                         <div class="inner">
-                            <img src="img/about-1.png" data-aos="fade-down" class="img1" alt="">
-                            <img src="img/about-2.jpg" class="img2" alt="">
-                            <img src="img/about-3.png" data-aos="flip-left" data-aos-delay="800" class="img3" alt="">
+                            <img src="{{ asset('assets/img/about-1.png') }}" data-aos="fade-down" class="img1" alt="">
+                            <img src="{{ asset('assets/img/about-2.jpg') }}" class="img2" alt="">
+                            <img src="{{ asset('assets/img/about-3.png') }}" data-aos="flip-left" data-aos-delay="800" class="img3" alt="">
                         </div>
                     </div><!--/.left-images-about-->
                 </div>
                 <div class="col-md-6">
                     <div class="right-content-about">
                         <div class="sec-title">
-                            <h3><img src="img/icons/title-icon.svg" alt=""> About Our Company</h3>
+                            <h3><img src="{{ asset('assets/img/icons/title-icon.svg') }}" alt=""> About Our Company</h3>
                             <h2 class="tag1">Best Digital Marketing Agency For People</h2>
                         </div>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have as suffered alteration in some form, by injected humour, or randomised words which don't a look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything.</p>
@@ -166,9 +166,9 @@
                     <div class="single-services-dv" data-aos="fade-up" data-aos-delay="200">
                         <div class="imgs">
                             <div class="icon">
-                                <img src="img/icons/service-icon1.svg" alt="">
+                                <img src="{{ asset('assets/img/icons/service-icon1.svg') }}" alt="">
                             </div>
-                            <img src="img/service1.png" class="mn" alt="">
+                            <img src="{{ asset('assets/img/service1.png') }}" class="mn" alt="">
                         </div>
                         <div class="cont">
                             <h2>Graphics Design</h2>
@@ -180,9 +180,9 @@
                     <div class="single-services-dv" data-aos="fade-up" data-aos-delay="400">
                         <div class="imgs">
                             <div class="icon">
-                                <img src="img/icons/service-icon2.svg" alt="">
+                                <img src="{{ asset('assets/img/icons/service-icon2.svg') }}" alt="">
                             </div>
-                            <img src="img/service2.png" class="mn" alt="">
+                            <img src="{{ asset('assets/img/service2.png') }}" class="mn" alt="">
                         </div>
                         <div class="cont">
                             <h2>Web Developer</h2>
@@ -194,9 +194,9 @@
                     <div class="single-services-dv" data-aos="fade-up" data-aos-delay="600">
                         <div class="imgs">
                             <div class="icon">
-                                <img src="img/icons/service-icon3.svg" alt="">
+                                <img src="{{ asset('assets/img/icons/service-icon3.svg') }}" alt="">
                             </div>
-                            <img src="img/service3.png" class="mn" alt="">
+                            <img src="{{ asset('assets/img/service3.png') }}" class="mn" alt="">
                         </div>
                         <div class="cont">
                             <h2>Digital Marketing</h2>
@@ -208,9 +208,9 @@
                     <div class="single-services-dv" data-aos="fade-up" data-aos-delay="800">
                         <div class="imgs">
                             <div class="icon">
-                                <img src="img/icons/service-icon4.svg" alt="">
+                                <img src="{{ asset('assets/img/icons/service-icon4.svg') }}" alt="">
                             </div>
-                            <img src="img/service4.png" class="mn" alt="">
+                            <img src="{{ asset('assets/img/service4.png') }}" class="mn" alt="">
                         </div>
                         <div class="cont">
                             <h2>App Design</h2>
@@ -230,7 +230,7 @@
                 <div class="col-md-6">
                     <div class="left-content-choose">
                         <div class="sec-title">
-                            <h3><img src="img/icons/title-icon-infinity.svg" alt="">Why Choose Ortencey</h3>
+                            <h3><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt="">Why Choose Ortencey</h3>
                             <h2 class="tag1">Reason For Choosing Our Digital Agency</h2>
                         </div>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majori suffered alteration in some form, by injected humour, or randomised word whic look even sligh believable. If you are going to use.</p>
@@ -265,7 +265,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="right-img-choose">
-                        <img src="img/choose-img.jpg" alt="">
+                        <img src="{{ asset('assets/img/choose-img.jpg') }}" alt="">
                         <div class="exp"><span>25</span> Years Experience</div>
                     </div><!--/.right-img-choose-->
                 </div>
@@ -280,7 +280,7 @@
             <div class="row g-0">
                 <div class="col-12">
                     <div class="sec-title text-center mb-50">
-                        <h3><img src="img/icons/title-icon-infinity.svg" alt=""> Our Pricing</h3>
+                        <h3><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt=""> Our Pricing</h3>
                         <h2 class="tag1">Our Best Pricing Plan</h2>
                     </div>
                 </div>
@@ -289,7 +289,7 @@
                         <div class="col-md-6 col-xl-4">
                             <div class="single-plan-area" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icons">
-                                    <img src="img/icons/plan1.svg" alt="">
+                                    <img src="{{ asset('assets/img/icons/plan1.svg') }}" alt="">
                                 </div>
                                 <div class="plan-hdr">
                                     <h2>Basic Plan</h2>
@@ -311,7 +311,7 @@
                         <div class="col-md-6 col-xl-4">
                             <div class="single-plan-area features" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icons">
-                                    <img src="img/icons/plan2.svg" alt="">
+                                    <img src="{{ asset('assets/img/icons/plan2.svg') }}" alt="">
                                 </div>
                                 <div class="plan-hdr">
                                     <h2>Gold Plan</h2>
@@ -333,7 +333,7 @@
                         <div class="col-md-6 col-xl-4">
                             <div class="single-plan-area" data-aos="fade-up" data-aos-delay="500">
                                 <div class="icons">
-                                    <img src="img/icons/plan3.svg" alt="">
+                                    <img src="{{ asset('assets/img/icons/plan3.svg') }}" alt="">
                                 </div>
                                 <div class="plan-hdr">
                                     <h2>Silver Plan</h2>
@@ -371,7 +371,7 @@
                                     <div class="d-flex align-items-center">
                                         <div class="flex-grow-0">
                                             <div class="icon">
-                                                <img src="img/icons/fun1.png" alt="">
+                                                <img src="{{ asset('assets/img/icons/fun1.png') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="flex-shrink-1">
@@ -386,7 +386,7 @@
                                     <div class="d-flex align-items-center">
                                         <div class="flex-grow-0">
                                             <div class="icon">
-                                                <img src="img/icons/fun2.png" alt="">
+                                                <img src="{{ asset('assets/img/icons/fun2.png') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="flex-shrink-1">
@@ -401,7 +401,7 @@
                                     <div class="d-flex align-items-center">
                                         <div class="flex-grow-0">
                                             <div class="icon">
-                                                <img src="img/icons/fun3.png" alt="">
+                                                <img src="{{ asset('assets/img/icons/fun3.png') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="flex-shrink-1">
@@ -443,7 +443,7 @@
                             <div class="col-md-6">
                                 <div class="right-contact-frm">
                                     <div class="sec-title">
-                                        <h3 class="text-white"><img src="img/icons/title-icon-infinity.svg" alt="">Make an Appointment</h3>
+                                        <h3 class="text-white"><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt="">Make an Appointment</h3>
                                         <h2 class="text-white tag1">Start New Project With Us</h2>
                                     </div>
                                     <div class="forms-wrap-cont pt-50">
@@ -498,7 +498,7 @@
             <div class="row g-0">
                 <div class="col-12">
                     <div class="sec-title text-center">
-                        <h3><img src="img/icons/title-icon-infinity.svg" alt=""> Team Member</h3>
+                        <h3><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt=""> Team Member</h3>
                         <h2 class="tag1">Creative Team Member</h2>
                     </div>
                 </div>
@@ -507,7 +507,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner" data-aos="flip-left" data-aos-delay="100">
                                 <div class="imgs">
-                                    <img src="img/team1.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team1.jpg') }}" alt="">
                                 </div>
                                 <div class="cont">
                                     <div class="name">
@@ -528,7 +528,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner" data-aos="flip-left" data-aos-delay="300">
                                 <div class="imgs">
-                                    <img src="img/team2.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team2.jpg') }}" alt="">
                                 </div>
                                 <div class="cont">
                                     <div class="name">
@@ -549,7 +549,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner" data-aos="flip-left" data-aos-delay="500">
                                 <div class="imgs">
-                                    <img src="img/team3.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team3.jpg') }}" alt="">
                                 </div>
                                 <div class="cont">
                                     <div class="name">
@@ -570,7 +570,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner" data-aos="flip-left" data-aos-delay="700">
                                 <div class="imgs">
-                                    <img src="img/team4.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team4.jpg') }}" alt="">
                                 </div>
                                 <div class="cont">
                                     <div class="name">
@@ -603,7 +603,7 @@
                 <div class="col-md-7 col-lg-6 order-md-2">
                     <div class="right-content-testimonial">
                         <div class="sec-title mb-50">
-                            <h3><img src="img/icons/title-icon-infinity.svg" alt="">Testimonial</h3>
+                            <h3><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt="">Testimonial</h3>
                             <h2 class="tag1">What Our Client Say</h2>
                         </div>
                         <div class="testimonial-slider-slick">
@@ -747,13 +747,13 @@
                 <div class="col-md-5 col-lg-6 order-md-1">
                     <div class="left-client-images-tbs">
                         <div class="action-hr">
-                            <a href="#" class="dts1" data-slide="1"><img src="img/testi1.png" alt=""></a>
-                            <a href="#" class="dts2" data-slide="2"><img src="img/testi2.jpg" alt=""></a>
-                            <a href="#" class="dts3" data-slide="3"><img src="img/testi3.jpg" alt=""></a>
-                            <a href="#" class="dts4" data-slide="4"><img src="img/testi4.jpg" alt=""></a>
-                            <a href="#" class="dts5" data-slide="5"><img src="img/testi5.jpg" alt=""></a>
-                            <a href="#" class="dts6" data-slide="6"><img src="img/testi6.jpg" alt=""></a>
-                            <a href="#" class="dts7" data-slide="7"><img src="img/testi7.jpg" alt=""></a>
+                            <a href="#" class="dts1" data-slide="1"><img src="{{ asset('assets/img/testi1.png') }}" alt=""></a>
+                            <a href="#" class="dts2" data-slide="2"><img src="{{ asset('assets/img/testi2.jpg') }}" alt=""></a>
+                            <a href="#" class="dts3" data-slide="3"><img src="{{ asset('assets/img/testi3.jpg') }}" alt=""></a>
+                            <a href="#" class="dts4" data-slide="4"><img src="{{ asset('assets/img/testi4.jpg') }}" alt=""></a>
+                            <a href="#" class="dts5" data-slide="5"><img src="{{ asset('assets/img/testi5.jpg') }}" alt=""></a>
+                            <a href="#" class="dts6" data-slide="6"><img src="{{ asset('assets/img/testi6.jpg') }}" alt=""></a>
+                            <a href="#" class="dts7" data-slide="7"><img src="{{ asset('assets/img/testi7.jpg') }}" alt=""></a>
                         </div>
                     </div><!--/.left-client-images-tbs-->
                 </div>
@@ -770,7 +770,7 @@
                     <div class="inner-promo-txt">
                         <div class="d-md-flex justify-content-between align-items-center">
                             <div class="sec-title">
-                                <h3 class="text-white"><img src="img/icons/title-icon-infinity.svg" alt=""> We Are Hire</h3>
+                                <h3 class="text-white"><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt=""> We Are Hire</h3>
                                 <h2 class="text-white tag1">Tell us About Your Business, We are Ready to Solve.</h2>
                             </div>
                             <div class="btn-area">
@@ -797,7 +797,7 @@
             <div class="row g-0">
                 <div class="col-12">
                     <div class="sec-title text-center">
-                        <h3><img src="img/icons/title-icon-infinity.svg" alt="">Our Blog</h3>
+                        <h3><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt="">Our Blog</h3>
                         <h2 class="tag1">Latest Blogs & Articles</h2>
                     </div>
                 </div>
@@ -806,16 +806,16 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="single-blog-inner" data-aos="fade-in" data-aos-delay="100">
                                 <div class="imgs">
-                                    <img src="img/blog1.jpg" alt="">
+                                    <img src="{{ asset('assets/img/blog1.jpg') }}" alt="">
                                     <span class="date">09 Dec 2022</span>
                                     <span class="cat">Digital Agency</span>
                                     <a href="blog-details.html" class="single-links">hidden link</a>
                                 </div>
                                 <div class="conts">
                                     <ul class="meta">
-                                        <li><img src="img/icons/user.svg" alt=""><span>by Admin</span></li>
-                                        <li><img src="img/icons/messages.svg" alt=""> <span>25</span></li>
-                                        <li><img src="img/icons/eye.svg" alt=""> <span>120 Views</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/user.svg') }}" alt=""><span>by Admin</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/messages.svg') }}" alt=""> <span>25</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/eye.svg') }}" alt=""> <span>120 Views</span></li>
                                     </ul>
                                     <h2><a href="blog-details.html">Successful business partner have a meeting and discussing</a></h2>
                                 </div>
@@ -824,16 +824,16 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="single-blog-inner" data-aos="fade-in" data-aos-delay="300">
                                 <div class="imgs">
-                                    <img src="img/blog2.jpg" alt="">
+                                    <img src="{{ asset('assets/img/blog2.jpg') }}" alt="">
                                     <span class="date">09 Dec 2022</span>
                                     <span class="cat">Marketing Agency</span>
                                     <a href="blog-details.html" class="single-links">hidden link</a>
                                 </div>
                                 <div class="conts">
                                     <ul class="meta">
-                                        <li><img src="img/icons/user.svg" alt=""><span>by Admin</span></li>
-                                        <li><img src="img/icons/messages.svg" alt=""> <span>22</span></li>
-                                        <li><img src="img/icons/eye.svg" alt=""> <span>2120 Views</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/user.svg') }}" alt=""><span>by Admin</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/messages.svg') }}" alt=""> <span>22</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/eye.svg') }}" alt=""> <span>2120 Views</span></li>
                                     </ul>
                                     <h2><a href="blog-details.html">Motivated colleagues celebrating corporate success together</a></h2>
                                 </div>
@@ -842,16 +842,16 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="single-blog-inner" data-aos="fade-in" data-aos-delay="500">
                                 <div class="imgs">
-                                    <img src="img/blog3.jpg" alt="">
+                                    <img src="{{ asset('assets/img/blog3.jpg') }}" alt="">
                                     <span class="date">09 Nov 2022</span>
                                     <span class="cat">Digital Connect</span>
                                     <a href="blog-details.html" class="single-links">hidden link</a>
                                 </div>
                                 <div class="conts">
                                     <ul class="meta">
-                                        <li><img src="img/icons/user.svg" alt=""><span>by Admin</span></li>
-                                        <li><img src="img/icons/messages.svg" alt=""> <span>22</span></li>
-                                        <li><img src="img/icons/eye.svg" alt=""> <span>120 Views</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/user.svg') }}" alt=""><span>by Admin</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/messages.svg') }}" alt=""> <span>22</span></li>
+                                        <li><img src="{{ asset('assets/img/icons/eye.svg') }}" alt=""> <span>120 Views</span></li>
                                     </ul>
                                     <h2><a href="blog-details.html">Man using a tablet to a work and connect with others</a></h2>
                                 </div>
