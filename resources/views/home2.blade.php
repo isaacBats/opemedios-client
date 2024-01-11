@@ -161,21 +161,21 @@
                                 <div class="single-service-inner_v3 aos-init aos-animate" data-aos="fade-up">
                                     <div class="row g-3 align-items-center">
                                         <div class="col-md-3 d-none d-lg-inline-block">
-                                            <h2>Social Media Marketing</h2>
+                                            <h2>Monitoreo Integral de Medios</h2>
                                         </div>
                                         <div class="col-md-4 col-lg-3">
                                             <div class="imgs">
-                                                <img src="{{ asset('assets/img/home2/services1.jpg') }}" alt="">
+                                                <img src="{{ asset('assets/img/pexels-servicio1.jpg') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-5 col-lg-4 col-xl-4 ">
                                             <div class="cont">
                                                 <h2 class="d-lg-none">Social Media Marketing</h2>
-                                                <p>There are many variations of passages of Lorem Ipsusm suffered alteration in some form, by injected as humour look even sligh believable.</p>
+                                                <p>Ofrecemos un servicio completo de monitoreo que abarca radio, televisión, periódicos, revistas, sitios web y redes sociales. Utilizando tecnologías avanzadas, rastreamos y recopilamos datos relevantes, proporcionando a nuestros clientes una visión completa de su presencia mediática.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-lg-2 col-xl-2 text-end">
-                                            <a href="#" class="btn style2">Read More</a>
+                                            <a href="#" class="btn style2">Leer más</a>
                                         </div>
                                     </div>
                                 </div><!--/.single-service-inner_v2-->
@@ -184,21 +184,21 @@
                                 <div class="single-service-inner_v3 aos-init aos-animate" data-aos="fade-up">
                                     <div class="row g-3 align-items-center">
                                         <div class="col-md-3 d-none d-lg-inline-block">
-                                            <h2>Website Development</h2>
+                                            <h2>Análisis Detallado de Temas o Palabras Clave</h2>
                                         </div>
                                         <div class="col-md-4 col-lg-3">
                                             <div class="imgs">
-                                                <img src="{{ asset('assets/img/home2/services2.jpg') }}" alt="">
+                                                <img src="{{ asset('assets/img/pexels-servicio2.jpg') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-5 col-lg-4 col-xl-4 ">
                                             <div class="cont">
                                                 <h2 class="d-lg-none">Website Development</h2>
-                                                <p>There are many variations of passages of Lorem Ipsusm suffered alteration in some form, by injected as humour look even sligh believable.</p>
+                                                <p>Realizamos un análisis exhaustivo de los temas y palabras clave que usted elija monitorear en todos los medios disponibles. Nuestra tecnología avanzada de procesamiento de lenguaje natural identifica patrones, tendencias y cambios en la narrativa, brindándole información valiosa sobre cómo su marca o temas específicos están siendo abordados en los medios.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-lg-2 col-xl-2 text-end">
-                                            <a href="#" class="btn style2">Read More</a>
+                                            <a href="#" class="btn style2">Leer más</a>
                                         </div>
                                     </div>
                                 </div><!--/.single-service-inner_v2-->
@@ -207,21 +207,21 @@
                                 <div class="single-service-inner_v3 aos-init aos-animate" data-aos="fade-up">
                                     <div class="row g-3 align-items-center">
                                         <div class="col-md-3 d-none d-lg-inline-block">
-                                            <h2>Digital SEO Marketing</h2>
+                                            <h2>Informe de Competencia Mediática</h2>
                                         </div>
                                         <div class="col-md-4 col-lg-3">
                                             <div class="imgs">
-                                                <img src="{{ asset('assets/img/home2/services3.jpg') }}" alt="">
+                                                <img src="{{ asset('assets/img/pexels-karolina-grabowska-7681091-servicio3.jpg') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-5 col-lg-4 col-xl-4 ">
                                             <div class="cont">
                                                 <h2 class="d-lg-none">Digital SEO Marketing</h2>
-                                                <p>There are many variations of passages of Lorem Ipsusm suffered alteration in some form, by injected as humour look even sligh believable.</p>
+                                                <p>Le proporcionamos un informe detallado sobre cómo se compara su presencia mediática con la de la competencia. Analizamos la cobertura en los medios, la frecuencia de menciones y otros factores clave para que pueda ajustar su estrategia y destacar en su industria.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-lg-2 col-xl-2 text-end">
-                                            <a href="#" class="btn style2">Read More</a>
+                                            <a href="#" class="btn style2">Leer más</a>
                                         </div>
 
                                     </div>
@@ -231,21 +231,21 @@
                                 <div class="single-service-inner_v3 aos-init aos-animate" data-aos="fade-up">
                                     <div class="row g-3 align-items-center">
                                         <div class="col-md-3 d-none d-lg-inline-block">
-                                            <h2>Financial Audit Result</h2>
+                                            <h2>Envío de Resúmenes, Notificaciones y Reportes Personalizados</h2>
                                         </div>
                                         <div class="col-md-4 col-lg-3">
                                             <div class="imgs">
-                                                <img src="{{ asset('assets/img/home2/services3.jpg') }}" alt="">
+                                                <img src="{{ asset('assets/img/pexels-mikael-blomkvist-6483619-servicio4.jpg') }}" alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-5 col-lg-4 col-xl-4 ">
                                             <div class="cont">
                                                 <h2 class="d-lg-none">Financial Audit Result</h2>
-                                                <p>There are many variations of passages of Lorem Ipsusm suffered alteration in some form, by injected as humour look even sligh believable.</p>
+                                                <p>Personalizamos completamente la entrega de información para adaptarnos a sus necesidades. Reciba resúmenes diarios, notificaciones instantáneas sobre eventos relevantes y reportes periódicos que contienen análisis profundos de su presencia mediática. Nuestra flexibilidad garantiza que reciba la información que realmente importa de la manera que más le convenga.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-3 col-lg-2 col-xl-2 text-end">
-                                            <a href="#" class="btn style2">Read More</a>
+                                            <a href="#" class="btn style2">Leer más</a>
                                         </div>
                                     </div>
                                 </div><!--/.single-service-inner_v2-->
@@ -266,44 +266,44 @@
             <div class="row g-4 ">
                 <div class="col-lg-6">
                     <div class="left-img-choose-v3">
-                        <img src="img/home3/why-choose-guys.jpg" alt="">
-                        <img src="img/home3/image-shape-choose.svg" class="overlay" data-aos="flip-left" alt="">
+                        <img src="{{ asset('assets/img/pexels-alena-darmel-7710155.jpg') }}" alt="">
+                        <img src="{{ asset('assets/img/home3/image-shape-choose.svg') }}" class="overlay" data-aos="flip-left" alt="">
                     </div><!--/.left-img-choose-v3-->
                 </div>
                 <div class="col-lg-6">
                     <div class="right-content-choose-v3">
                         <div class="sec-title">
-                            <h3><img src="img/icons/title-icon.svg" alt="">Why Choose Us?</h3>
-                            <h2 class="tag1">We Are The Best Digital Marketing Agency</h2>
+                            <h3><img src="{{ asset('assets/img/icons/title-icon.svg') }}" alt="">¿Por qué elegirnos?</h3>
+                            <h2 class="tag1">Transformamos datos en conocimiento para potenciar tu marca</h2>
                         </div>
                         <ul class="our-qua-lists">
                             <li>
                                 <div class="icon">
-                                    <img src="img/home3/choose-icon1.png" alt="">
+                                    <img src="{{ asset('assets/img/home3/choose-icon1.png') }}" alt="">
                                 </div>
                                 <div class="cont">
-                                    <h2>Quality Services</h2>
-                                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true.</p>
+                                    <h2>Servicios de calidad</h2>
+                                    <p>Nuestros servicios de calidad destacan por su precisión, profundidad y atención meticulosa.</p>
                                 </div>
-                                <img src="img/home3/shape-down.svg"  class="arrow-down" alt="">
+                                <img src="{{ asset('assets/img/home3/shape-down.svg') }}"  class="arrow-down" alt="">
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="img/home3/choose-icon2.png" alt="">
+                                    <img src="{{ asset('assets/img/home3/choose-icon2.png') }}" alt="">
                                 </div>
                                 <div class="cont">
-                                    <h2>Best Working Process Follow</h2>
-                                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true.</p>
+                                    <h2>Seguir el mejor proceso de trabajo</h2>
+                                    <p>En Opemedios, nos destacamos al seguir el mejor proceso de trabajo en el análisis y gestión de información mediática.</p>
                                 </div>
-                                <img src="img/home3/shape-down.svg"  class="arrow-down flip" alt="">
+                                <img src="{{ asset('assets/img/home3/shape-down.svg') }}"  class="arrow-down flip" alt="">
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="img/home3/choose-icon1.png" alt="">
+                                    <img src="{{ asset('assets/img/home3/choose-icon1.png') }}" alt="">
                                 </div>
                                 <div class="cont">
-                                    <h2>24/7 Support</h2>
-                                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true.</p>
+                                    <h2>Amplia cobertura</h2>
+                                    <p>Disfruta de una cobertura sin igual en el monitoreo de medios. Desde radio y televisión hasta periódicos, revistas, sitios web y redes sociales.</p>
                                 </div>
                             </li>
                         </ul>
@@ -320,7 +320,7 @@
             <div class="row g-4 align-items-center align-items-lg-end">
                 <div class="col-lg-6">
                     <div class="sec-title text-center text-lg-start">
-                        <h3><img src="img/icons/title-icon.svg" alt=""> Our Project</h3>
+                        <h3><img src="{{ asset('assets/img/icons/title-icon.svg') }}" alt=""> Our Project</h3>
                         <h2 class="tag1">Our Creative Portfolio</h2>
                     </div>
                 </div>
@@ -339,7 +339,7 @@
             <ul class="portfolio-item-slider">
                 <li data-match="website_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio1.jpg" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio1.jpg') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -350,7 +350,7 @@
                 </li>
                 <li data-match="website_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio2.png" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio2.png') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -361,7 +361,7 @@
                 </li>
                 <li data-match="website_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio1.jpg" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio1.jpg') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -372,7 +372,7 @@
                 </li>
                 <li data-match="branding_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio2.png" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio2.png') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -383,7 +383,7 @@
                 </li>
                 <li data-match="branding_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio2.png" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio2.png') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -394,7 +394,7 @@
                 </li>
                 <li data-match="branding_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio3.png" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio3.png') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -405,7 +405,7 @@
                 </li>
                 <li data-match="app_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio1.jpg" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio1.jpg') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -416,7 +416,7 @@
                 </li>
                 <li data-match="app_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio3.png" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio3.png') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -427,7 +427,7 @@
                 </li>
                 <li data-match="app_des">
                     <div class="inner-portfolio-sing">
-                        <img src="img/home3/portfolio2.png" alt="">
+                        <img src="{{ asset('assets/img/home3/portfolio2.png') }}" alt="">
                         <div class="overlay-content">
                             <div class="txt">
                                 <h2>Smiley Colleagues Working Together</h2>
@@ -448,7 +448,7 @@
             <div class="row g-0">
                 <div class="col-12">
                     <div class="sec-title text-center">
-                        <h3><img src="img/icons/title-icon-infinity.svg" alt=""> Team Member</h3>
+                        <h3><img src="{{ asset('assets/img/icons/title-icon-infinity.svg') }}" alt=""> Team Member</h3>
                         <h2 class="tag1">Creative Team Member</h2>
                     </div>
                 </div>
@@ -457,7 +457,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner v3" data-aos="flip-left" data-aos-delay="100">
                                 <div class="imgs">
-                                    <img src="img/team1.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team1.jpg') }}" alt="">
                                     <div class="socials_v3">
                                         <ul>
                                             <li><a href="#"><i class="bx bxl-facebook"></i></a></li>
@@ -478,7 +478,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner v3" data-aos="flip-left" data-aos-delay="300">
                                 <div class="imgs">
-                                    <img src="img/team2.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team2.jpg') }}" alt="">
                                     <div class="socials_v3">
                                         <ul>
                                             <li><a href="#"><i class="bx bxl-facebook"></i></a></li>
@@ -500,7 +500,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner v3" data-aos="flip-left" data-aos-delay="500">
                                 <div class="imgs">
-                                    <img src="img/team3.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team3.jpg') }}" alt="">
                                     <div class="socials_v3">
                                         <ul>
                                             <li><a href="#"><i class="bx bxl-facebook"></i></a></li>
@@ -521,7 +521,7 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="team-member-inner v3" data-aos="flip-left" data-aos-delay="700">
                                 <div class="imgs">
-                                    <img src="img/team4.jpg" alt="">
+                                    <img src="{{ asset('assets/img/team4.jpg') }}" alt="">
                                     <div class="socials_v3">
                                         <ul>
                                             <li><a href="#"><i class="bx bxl-facebook"></i></a></li>
